@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "es.tikitaka.club.avisos",
+      "sha256_cert_fingerprints": [
+        "67:96:41:21:82:29:57:4C:1B:00:70:FE:E4:D3:91:BC:D9:B8:49:70:1A:AE:F5:F0:B8:2D:B5:81:90:3F:FC:4E"
+      ]
+    }
+  }
+]
