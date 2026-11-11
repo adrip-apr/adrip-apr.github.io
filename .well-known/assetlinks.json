@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "es.tikitaka.club.avisos",
       "sha256_cert_fingerprints": [
-        "67:96:41:21:82:29:57:4C:1B:00:70:FE:E4:D3:91:BC:D9:B8:49:70:1A:AE:F5:F0:B8:2D:B5:81:90:3F:FC:4E"
+        "67:96:41:21:82:29:57:4C:1B:00:70:FE:E4:D3:91:BC:D9:B8:49:70:1A:AE:F5:F0:B8:2D:B5:81:90:3F:FC:4E",
+        "DC:5E:FC:AA:97:EA:20:8E:6C:95:E1:EA:AA:04:4B:32:33:D2:8D:A6:F9:4A:A3:69:E3:32:E3:03:3D:2D:05:9F"
       ]
     }
   }
